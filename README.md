@@ -1,12 +1,10 @@
 # Sushiman - Feel the Taste of Japanese Food
 
-![Sushiman Logo](sushiman-logo.png)
 
 Experience the authentic flavors of Japanese cuisine right at your doorstep. Order now and indulge in the most popular Japanese dishes from anywhere, anytime.
 
 ## Order Now
 
-![How to Order](how-to-order.png)
 
 Join over 24k happy customers who have tasted the excellence of our Japanese food delivery service:
 
@@ -37,7 +35,6 @@ Feel the taste of the most delicious Sushi here. Try our popular sushi varieties
 - Temaki Sushi
 - Inari Sushi
 
-![Sushi Selection](sushi-selection.png)
 
 ## What's Trending - Japanese Drinks
 
@@ -50,18 +47,4 @@ Indulge in the most delicious Japanese drinks:
 - Kombu-cha
 - Mugicha
 
-![Japanese Drinks](japanese-drinks.png)
 
-## Get Exclusive Offers
-
-Sign up for the Sushiman newsletter to receive special offers and updates straight to your inbox.
-
-Enter your email address: [Get Started](newsletter-signup.html)
-
----
-
-**Sushiman**
-- [Menu](menu.html)
-- [Food](food.html)
-- [Services](services.html)
-- [About Us](about-us.html)
