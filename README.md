@@ -1,4 +1,4 @@
-# Sushiman - Feel the Taste of Japanese Food
+# Sushiman
 
 
 Experience the authentic flavors of Japanese cuisine right at your doorstep. Order now and indulge in the most popular Japanese dishes from anywhere, anytime.
